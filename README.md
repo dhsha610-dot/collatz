@@ -103,6 +103,3 @@ Suggestions, improvements, and pull requests are welcome.
 ## License
 
 Please add an appropriate license file if you intend to distribute or reuse this code publicly.
-
-
-If you'd like, I can also create a more detailed academic README specifically tailored to what m_q.R actually does by inspecting the script contents.
